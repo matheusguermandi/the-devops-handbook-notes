@@ -1,4 +1,6 @@
-![''](./images/image0.webp)
+<p align="center">
+  <img src="./images/image0.webp" width="500" />
+</p>
 
 The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations is a practical roadmap for building high performing IT organizations. It’s written by well known members of the DevOps community: Gene Kim, Jez Humble, John Willis, and Patrick Debois. They distill practical information and experiences in moving towards a DevOps value stream.
 
